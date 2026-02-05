@@ -1,0 +1,7 @@
+Elenco test RandomUser:
+Controllo nazionalità
+Controllo numero persone
+Controllo genere
+Controllo reset
+Controllo caricamento foto 
+Controllo funzionalità donate
